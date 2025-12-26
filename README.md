@@ -24,3 +24,15 @@ This project demonstrates both **command-line gameplay** and a **modern web-base
 ---
 
 ## 🗂 Project Structure
+```bash
+hangman-game/
+│
+├── python-version/
+│   └── hangman.py
+│
+├── web-version/
+│   ├── hangman.html
+│ 
+└── README.md
+
+
