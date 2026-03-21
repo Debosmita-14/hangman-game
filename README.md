@@ -31,7 +31,7 @@ hangman-game/
 │   └── hangman.py
 │
 ├── web-version/
-│   ├── hangman.html
+│   ├── index.html
 │ 
 └── README.md
 
